@@ -1,12 +1,3 @@
-/* 
-1) Arkaplanda random bir sayı tutulacak ✅
-2) Kullanıcıdan sayı alınacak ✅
-3) Alınan sayı kontrol edilecek
-    3.1 Sayı tahmini sayıdan büyükse "sayı büyük"
-    3.2 Sayı tahmini sayıdan küçükse "sayı küçük"
-    3.3 Sayı eşitse oyunu bitir
-**/
-
 let guess_count = 0;
 let random_number = Math.floor(Math.random() * 100 + 1);
 
